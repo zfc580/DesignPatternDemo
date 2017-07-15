@@ -13,6 +13,5 @@ public class XiangYu extends Hero {
     public XiangYu(){
         super();
         System.out.println("项羽：我命由我... ");
-        mBehavior = new KnifeSkill();
-    }
+        mBehavior = new KnifeSkill();}
 }
